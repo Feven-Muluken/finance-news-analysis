@@ -1,35 +1,9 @@
+# Financial Market Analysis – Task 1 & Task 2
 
-## ✔ Task 1 – EDA Highlights
-- Headlines analyzed for length, publisher frequency, and publication trends.
-- Time-series visualization identified spikes in news publication during major market events.
+## 📌 Project Overview
+This project performs:
+- Exploratory Data Analysis (EDA) on financial news data.
+- Technical analysis on stock price data using TA-Lib and Pandas.
+- Git version control with branching and pull requests.
 
-## ✔ Task 2 – Technical Analysis
-Indicators calculated using TA-Lib:
-- 20-day SMA
-- 20-day EMA
-- 14-day RSI
-- MACD (Line, Signal, Histogram)
-
-Additional metrics:
-- Daily and Annualized Volatility
-
-## 🚀 How to Run
-### 1. Install dependencies
-
-### 2. Launch Jupyter Notebook
-
-
-### 3. Run the EDA and TA notebooks
-
-## 🔧 Tools Used
-- Python  
-- Pandas  
-- Matplotlib  
-- TA-Lib  
-- Git & GitHub  
-- VSCode
-
-## 👤 Author
-Fenet Abilu
-
-
+## 🗂 Repository Structure
