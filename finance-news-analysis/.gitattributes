@@ -1,3 +1,5 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+data/news.csv filter=lfs diff=lfs merge=lfs -text
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -37,3 +39,4 @@ echo "data/news.csv" >> .gitignore
 data/news.csv
 data/news.csv
 data/news.csv
+
